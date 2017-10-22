@@ -1,4 +1,4 @@
-#We have four methods in this example:
+We have four methods in this example:
 
 - For the `Summary` method, we can select any dataset to show its summary.
 
